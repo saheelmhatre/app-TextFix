@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/app-TextFixpm/static/css/main.073c9b0a.css",
-    "main.js": "/app-TextFixpm/static/js/main.0c2366e2.js",
-    "static/js/787.edd59a96.chunk.js": "/app-TextFixpm/static/js/787.edd59a96.chunk.js",
-    "index.html": "/app-TextFixpm/index.html",
-    "main.073c9b0a.css.map": "/app-TextFixpm/static/css/main.073c9b0a.css.map",
-    "main.0c2366e2.js.map": "/app-TextFixpm/static/js/main.0c2366e2.js.map",
-    "787.edd59a96.chunk.js.map": "/app-TextFixpm/static/js/787.edd59a96.chunk.js.map"
+    "main.css": "/app-TextFix/static/css/main.073c9b0a.css",
+    "main.js": "/app-TextFix/static/js/main.e38f09cb.js",
+    "static/js/787.edd59a96.chunk.js": "/app-TextFix/static/js/787.edd59a96.chunk.js",
+    "index.html": "/app-TextFix/index.html",
+    "main.073c9b0a.css.map": "/app-TextFix/static/css/main.073c9b0a.css.map",
+    "main.e38f09cb.js.map": "/app-TextFix/static/js/main.e38f09cb.js.map",
+    "787.edd59a96.chunk.js.map": "/app-TextFix/static/js/787.edd59a96.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0c2366e2.js"
+    "static/js/main.e38f09cb.js"
   ]
 }
