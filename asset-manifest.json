@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/app-TextFix/static/css/main.073c9b0a.css",
-    "main.js": "/app-TextFix/static/js/main.1e2ade17.js",
+    "main.js": "/app-TextFix/static/js/main.02734aa1.js",
     "static/js/787.edd59a96.chunk.js": "/app-TextFix/static/js/787.edd59a96.chunk.js",
     "index.html": "/app-TextFix/index.html",
     "main.073c9b0a.css.map": "/app-TextFix/static/css/main.073c9b0a.css.map",
-    "main.1e2ade17.js.map": "/app-TextFix/static/js/main.1e2ade17.js.map",
+    "main.02734aa1.js.map": "/app-TextFix/static/js/main.02734aa1.js.map",
     "787.edd59a96.chunk.js.map": "/app-TextFix/static/js/787.edd59a96.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.1e2ade17.js"
+    "static/js/main.02734aa1.js"
   ]
 }
